@@ -1,0 +1,11 @@
+{
+  "name": "reactreserve",
+  "alias": "emarh-react-reserve.now.sh",
+  "version": 1,
+  "env": {
+    "MONGO_SRV": "mongodb+srv://Ruud86:Davidvilla7@reactreserve-yxar9.mongodb.net/test?retryWrites=true&w=majority",
+    "JWT_SECRET": "JesusChristIsTheNameAboveAllNames",
+    "CLOUDINARY_URL": "https://api.cloudinary.com/v1_1/dsnd07h0x/image/upload",
+    "STRIPE_SECRET_KEY": "sk_test_s3wnrFd9idWFUMuTdUb4U1ak005dmAiKl9"
+  }
+}
