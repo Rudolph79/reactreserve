@@ -1,7 +1,7 @@
 {
   "name": "reactreserve",
   "alias": "emarh-react-reserve.now.sh",
-  "version": 1,
+  "version": 2,
   "env": {
     "MONGO_SRV": "mongodb+srv://Ruud86:Davidvilla7@reactreserve-yxar9.mongodb.net/test?retryWrites=true&w=majority",
     "JWT_SECRET": "JesusChristIsTheNameAboveAllNames",
